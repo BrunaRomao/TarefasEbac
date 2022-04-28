@@ -1,0 +1,2 @@
+Injeção de dependência é um tipo de padrão de projeto que soluciona as dependências de classes que podem ocorrer na programação. 
+Dentro desse padrão de projeto existem várias formas de solucionar o problema da dependência, como injeção de dependência via construtor, via propriedades (getters e setters), via interface e com frameworks (Spring/Unity). 
